@@ -1,8 +1,12 @@
 import React from 'react'
-
+import styles from './Icon.module.css';
 const IconCard = () => {
   return (
-    <div>IconCard</div>
+    <div className={styles.icon}>
+        <i className="fa-regular fa-comments"></i>
+        <h3>Lorem ipsum</h3>
+        <p>Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam.</p>
+    </div>
   )
 }
 
