@@ -6,10 +6,18 @@ const Feature = () => {
     <div className='feature-section'>
         <h1>FEATURES</h1>
         <div className="icons-container">
-            <IconCard />
-            <IconCard />
-            <IconCard />
-            <IconCard />
+            <IconCard 
+            icon="fa-regular fa-comments"
+            />
+            <IconCard 
+            icon="fa fa-bullhorn"
+            />
+            <IconCard 
+            icon="fa fa-group"
+            />
+            <IconCard 
+            icon="fa fa-magic"
+            />
         </div>
     </div>
   )
