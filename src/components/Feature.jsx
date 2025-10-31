@@ -12,9 +12,7 @@ const Feature = () => {
             <IconCard 
             icon="fa fa-bullhorn"
             />
-            <IconCard 
-            icon="fa fa-group"
-            />
+            <IconCard />
             <IconCard 
             icon="fa fa-magic"
             />

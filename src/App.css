@@ -304,6 +304,21 @@
   padding-right: 8px;
 }
 
+/* services */
+.services{
+  background: linear-gradient(to right, #6372ff 0%, #5ca9fb 100%);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 50px;
+  padding: 60px 20px;
+  color: white;
+}
+
+.services .icon-container {
+  
+}
+
 /* Responsive Design */
 @media (max-width: 768px) {
   .navbar {
@@ -336,6 +351,9 @@
   }
   .about-us .picture-section img{
     width: 400px;
+  }
+  .icons-container{
+    justify-content: center;
   }
   .about-us .content-section {
     height: 110vh;

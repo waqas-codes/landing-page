@@ -1,5 +1,6 @@
 import React from 'react'
-import styles from './Icon.module.css';            
+import styles from './Icon.module.css';
+            
 const IconCard = ({icon = "fa fa-magic"}) => {
   return (
     <div className={styles.icon}>
