@@ -8,13 +8,18 @@ const Feature = () => {
         <div className="icons-container">
             <IconCard 
             icon="fa-regular fa-comments"
+            detail="Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
             />
             <IconCard 
             icon="fa fa-bullhorn"
+            detail="Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
             />
-            <IconCard />
+            <IconCard 
+            detail="Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+            />
             <IconCard 
             icon="fa fa-magic"
+            detail="Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
             />
         </div>
     </div>

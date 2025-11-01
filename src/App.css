@@ -313,16 +313,12 @@
   gap: 50px;
   padding: 60px 20px;
   margin-top: 70px;
+  text-align: center;
   color: white;
 }
 
-.services {
-  text-align: center;
-}
 .services h1{
   margin-bottom: 20px;
-  /* font-size: 40px; */
-  text-align: center;
   position: relative;
   padding-bottom: 15px;
 }
@@ -341,9 +337,20 @@
   font-size: large;
   color: rgb(216, 216, 216);
 }
-.services .icon-container {
-  
+.services .main-container{
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
 }
+.services .icon-container {
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+  margin: 20px 0;
+}
+
+
 
 /* Responsive Design */
 @media (max-width: 768px) {
