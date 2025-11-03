@@ -351,7 +351,6 @@
 }
 
 
-
 /* Responsive Design */
 @media (max-width: 768px) {
   .navbar {
@@ -397,6 +396,10 @@
   }
   .about-us .content-section .li-list li{
     padding-bottom: 5px;
+  }
+
+  .icon-container {
+    flex-wrap: wrap;
   }
 }
 
