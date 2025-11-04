@@ -5,5 +5,5 @@ const Gallery = () => {
     <div>Gallery</div>
   )
 }
-
+l
 export default Gallery
