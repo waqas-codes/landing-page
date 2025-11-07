@@ -14,6 +14,7 @@ const App = () => {
       <Aboutus />
       <Services />
       <Gallery />
+      
     </div>
   )
 }
