@@ -18,7 +18,7 @@ const GalleryComponent = ({bgImage, title}) => {
   return (
     <div>
       <div className="image" style={sectionStyle}>
-pa
+
       </div>
     </div>
   )
