@@ -13,7 +13,7 @@ const Gallery = () => {
           bgImage="https://img.freepik.com/free-photo/high-angle-man-holding-smartphone_23-2149936204.jpg"
           title="PROJECT TITLE"
         />
-        <GalleryComponent
+        <GalleryComponen
           bgImage="https://media.istockphoto.com/id/916184580/photo/man-working-on-laptop-placed-on-white-desk.jpg?s=612x612&w=0&k=20&c=60InyBgQmNnz7AHrCSrefs9MbWnDUp444fDOMk2cG0U="
           title="PROJECT TITLE"
         />
