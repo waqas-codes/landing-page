@@ -11,6 +11,8 @@ const Contact = () => {
             <div className='flex'>
               <div className='bg-white px-8 my-40'>
                 <input
+                  type="text"
+                  placeholder='Name'
                   className='bg-white text-black px-4 py-2 w-full border border-gray-300 rounded'
                 />
 
