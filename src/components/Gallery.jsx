@@ -8,8 +8,9 @@ const Gallery = () => {
         <h1>GALLERY</h1>
         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit duis sed dapibus leonec.</p>
       </div>
-      <GalleryComponent 
-      bgImage="https://media.istockphoto.com/id/814423752/photo/eye-of-model-with-colorful-art-make-up-close-up.jpg?s=612x612&w=0&k=20&c=l15OdMWjgCKycMMShP8UK94ELVlEGvt7GmB_esHWPYE="
+      <GalleryComponent
+        bgImage="https://img.freepik.com/free-photo/high-angle-man-holding-smartphone_23-2149936204.jpg?semt=ais_hybrid&w=740&q=80"
+        title="PROJECT TITLE"
       />
     </div>
   )
