@@ -5,7 +5,7 @@ const GalleryComponent = ({bgImage, title}) => {
 
   return (
     <div>
-      <div className="image" style={styles.galleryCard}>
+      <div className="image" style={{backgroundImage:bgImage}}>
 
       </div>
     </div>
